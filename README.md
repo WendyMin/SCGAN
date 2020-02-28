@@ -10,4 +10,4 @@ model: [SCGAN-2D.v5](https://github.com/WendyMin/SCGAN/blob/master/SCGAN-2D/code
 ## SCGAN-3D
 dataset: [3D MNIST](https://www.kaggle.com/daavoo/3d-mnist)
 
-model: [SCGAN-3D](https://github.com/WendyMin/SCGAN/blob/master/SCGAN-3D/codes/SCGAN-3D.v6.ipynb)
+model: [SCGAN-3D.v6](https://github.com/WendyMin/SCGAN/blob/master/SCGAN-3D/codes/SCGAN-3D.v6.ipynb)
