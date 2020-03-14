@@ -8,7 +8,7 @@ model: [SCGAN-2D.mnist.v6](https://github.com/WendyMin/SCGAN/blob/master/SCGAN-2
 
 dataset: [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
 
-model: [SCGAN-2D.cifar.v3](https://github.com/WendyMin/SCGAN/blob/master/SCGAN-2D/codes/SCGAN-2D.cifar10.v3.ipynb)
+model: [SCGAN-2D.cifar.v4](https://github.com/WendyMin/SCGAN/blob/master/SCGAN-2D/codes/SCGAN-2D.cifar10.v4.ipynb)
 
 
 ## SCGAN-3D
